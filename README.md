@@ -1,5 +1,5 @@
-#Codewars
-##My katas
+# Codewars
+## My katas
 
 Katas de Codewars que he ido realizando, ordenados por lenguajes y por nivel de dificultad.
 
